@@ -6,7 +6,7 @@ module AquaIo
     class ResponseHandler
 
       def self.get_body(response)
-        type = response.response_headers["content-type"]
+        type = response.headers["content-type"]
         body = response.body
 
         # Response body is in JSON

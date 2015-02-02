@@ -17,7 +17,7 @@ Works with Ruby [ 1.8.6 / 1.8.7 / 1.9.1 / 1.9.2 / 1.9.3 / 2.0.0 / 2.1.0 / 2.1.1 
 #### Ruby on Rails
 
 ```ruby
-gem 'aqua-io',		'~> 0.1.0'
+gem 'aqua-io',		'~> 0.1.1'
 ```
 
 #### Other Ruby Projects

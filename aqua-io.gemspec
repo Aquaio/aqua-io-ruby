@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name        = "aqua-io"
-  gem.version     = "0.1.0"
+  gem.version     = "0.1.1"
   gem.description = "Official Aqua.io API library client for ruby. Covers API authentication and methods for ICD-9 and ICD-10 code endpoints."
   gem.summary     = "Official Aqua.io API library client for ruby (ICD-9 and ICD-10)."
 

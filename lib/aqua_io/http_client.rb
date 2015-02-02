@@ -21,7 +21,7 @@ module AquaIo
 
         @options = {
           :base => "https://api.aqua.io",
-          :user_agent => "Aqua.io official Ruby client (0.1.0)"
+          :user_agent => "Aqua.io official Ruby client (0.1.1)"
         }
 
         @options.update(options)
